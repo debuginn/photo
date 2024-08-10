@@ -4,7 +4,7 @@ disableKinds = ["taxonomy", "term"]
 enableRobotsTXT = true
 languageCode = "zh-cn"
 timeZone = "Asia/Shanghai"
-timeout = "120s"
+timeout = "360s"
 title = "Debug客栈"
 
 [params]
