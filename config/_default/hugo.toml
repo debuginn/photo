@@ -1,4 +1,4 @@
-copyright = "Debug客栈 © 2022-2024"
+copyright = "Copyright © 2017-2023 Debug客栈, by @debuginn."
 defaultContentLanguage = "zh-cn"
 disableKinds = ["taxonomy", "term"]
 enableRobotsTXT = true
