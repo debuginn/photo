@@ -4,5 +4,4 @@ description: 西伯利亚的海鸥、苍山洱海、大饼的小屋、小狗老�
 menus: "main"
 weight: 2
 featured_image: 202312241509754.jpg
-featured: true
 ---
