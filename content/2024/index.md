@@ -5,4 +5,5 @@ menus: "main"
 weight: 1
 featured_image: DSC05153.JPG
 featured: true
+categories: ["2024"]
 ---
