@@ -41,9 +41,6 @@ jobs:
               with:
                   hugo-version: "latest"
                   extended: true
-            
-            - name: Hugo mod init
-              run: hugo mod get
 
             - name: Build
               run: hugo --minify --gc
