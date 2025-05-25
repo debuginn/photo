@@ -18,10 +18,6 @@ name = "Meng小羽"
 website = "https://debuginn.com"
 email = "mailto:debuginn@icloud.com"
 github = "https://github.com/debuginn"
-[params.gallery]
-boxSpacing = 10
-targetRowHeight = 288
-targetRowHeightTolerance = 0.25
 
 [outputs]
 home = ["HTML", "RSS"]
