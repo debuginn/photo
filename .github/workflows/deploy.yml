@@ -36,6 +36,9 @@ jobs:
                   go-version: "^1.17.0"
             - run: go version
 
+            - name: Hugo mod init
+              run: hugo mod get
+
             - name: Setup Hugo
               uses: peaceiris/actions-hugo@v2
               with:
