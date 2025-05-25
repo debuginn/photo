@@ -29,7 +29,7 @@ quality = 75
 resampleFilter = "CatmullRom"
 [imaging.exif]
 disableDate = false
-disableLatLong = true
+disableLatLong = false
 includeFields = "ImageDescription|Orientation"
 
 [module]
