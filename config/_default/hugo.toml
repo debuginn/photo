@@ -8,16 +8,16 @@ timeout = "120s"
 title = "Debug客栈"
 
 [params]
-title = "摄影展"
 defaultTheme = "dark"
 description = "您好，我是 Meng小羽，非标准程序猿，爱好 Coding、Music and Photography。"
+title = "摄影展"
 [params.author]
 email = "debuginn@icloud.com"
 name = "Meng小羽"
 [params.socialIcons]
-website = "https://debuginn.com"
 email = "mailto:debuginn@icloud.com"
 github = "https://github.com/debuginn"
+website = "https://debuginn.com"
 
 [outputs]
 home = ["HTML", "RSS"]
@@ -35,6 +35,14 @@ includeFields = "ImageDescription|Orientation"
 [module]
 [module.hugoVersion]
 min = "0.121.2"
+[[module.imports]]
+path = "github.com/nicokaiser/hugo-theme-gallery/v4"
+
+[menu]
+[[menu.footer]]
+name = "GitHub"
+url = "https://github.com/nicokaiser/hugo-theme-gallery/"
+weight = 3
 
 [services]
 [services.rss]
