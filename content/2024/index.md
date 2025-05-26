@@ -6,6 +6,7 @@ weight: 1
 categories: ["2024"]
 params:
   theme: light
+  featured: true
 resources:
   - src: DSC05153.JPG
     params:

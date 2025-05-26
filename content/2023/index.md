@@ -5,7 +5,7 @@ title: 2023 年度精选照片
 weight: 2
 categories: ["2023"]
 params:
-  theme: light
+  theme: dark
 resources:
   - src: DSC01373.JPG
     params:
