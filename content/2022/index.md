@@ -1,8 +1,7 @@
 ---
 description: 蟒山、鼓楼、凤凰岭、小米科技园、天安门、雁栖湖、龙泽站、京西小华山...
-menus: "main"
-title: 2022 年度精选照片
-weight: 3
+type: gallery
+weight: 4
 categories: ["2022"]
 params:
   theme: light
