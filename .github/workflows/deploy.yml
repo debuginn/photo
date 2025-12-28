@@ -37,9 +37,9 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
-            name: Deploy to Pages 1
+          path: ./public
 
-  deploy:
+  deploy:   
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
