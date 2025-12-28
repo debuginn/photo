@@ -4,7 +4,6 @@ keywords: [2025]
 menus: "main"
 title: 2025 年度精选照片
 weight: 1
-featured_image: 10.jpg
 categories: ["2025"]
 params:
   featured: true
