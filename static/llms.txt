@@ -1,0 +1,39 @@
+# Debug客栈 摄影展集
+
+> 您好，我是 Meng小羽，非标准程序猿，爱好 Coding、Music and Photography。
+
+## 简介
+
+photo.debuginn.com 是 Meng小羽 (@idebuginn) 的个人摄影展集站点，按年度展示精选照片。基于 Hugo 构建，使用 hugo-theme-gallery 主题。
+
+- 作者: Meng小羽
+- 站点: https://photo.debuginn.com
+- GitHub: https://github.com/debuginn/photo
+- 主题: hugo-theme-gallery
+
+## 内容结构
+
+照片按年度分组展示，每年一个独立画廊：
+
+- 2025 年度精选照片 (23 张)
+- 2024 年度精选照片 (33 张)
+- 2023 年度精选照片 (28 张)
+- 2022 年度精选照片 (10 张)
+
+## 附加页面
+
+- 我的设备 (device.md): 展示拍摄使用的器材
+
+## 技术栈
+
+- Hugo 静态站点
+- hugo-theme-gallery 主题
+- Cloudflare Pages 部署
+- Google Analytics (G-B1XEJXPQPW)
+- EXIF 数据提取（拍摄日期、图片描述）
+
+## 相关站点
+
+- 博客: https://blog.debuginn.com
+- 工具站: https://tools.debuginn.com
+- GitHub: https://github.com/debuginn
