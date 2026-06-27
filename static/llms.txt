@@ -4,7 +4,7 @@
 
 ## 简介
 
-photo.debuginn.com 是 Meng小羽 (@idebuginn) 的个人摄影展集站点，按年度展示精选照片。基于 Hugo 构建，使用 hugo-theme-gallery 主题。
+photo.debuginn.com 是 Meng小羽 (@xdebuginn) 的个人摄影展集站点，按年度展示精选照片。基于 Hugo 构建，使用 hugo-theme-gallery 主题。
 
 - 作者: Meng小羽
 - 站点: https://photo.debuginn.com
